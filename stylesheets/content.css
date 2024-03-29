@@ -1,0 +1,943 @@
+
+
+body{
+    background-color: #F3F3F3;
+    overflow-x: hidden;
+    display: block;
+}
+
+html {
+    cursor: url('../img/Vector213.png'), auto;
+}
+
+
+
+html::-webkit-scrollbar { 
+    display: none; 
+}
+
+.logo img{
+    display: block;
+    position: relative;
+    width: 9vw;
+    margin-top: 2vh;
+    margin-left: 1vw;
+}
+
+hr {
+    height: 0.1vh;
+    background-color: rgb(0, 0, 0);
+    border: none;
+  }
+
+p{
+    font-family:"Noto Sans", sans-serif;
+}
+.spasite{
+    position:  relative;
+    color: black;
+    font-weight: 350;
+   font-size: 1.35vw;
+   top: -6vh;
+   right: -73vw;
+}
+
+.menya{
+    position: relative;
+    color: black;
+    font-weight: 350;
+   font-size: 1.35vw;
+   top: -8.5vh;
+   right: -83vw;
+}
+
+.ktonibud{
+    color: black;
+    position: relative;
+    font-weight: 350;
+   font-size: 1.35vw;
+   top: -11.3vh;
+   right: -89.8vw;
+}
+
+.point1{
+    position: absolute;
+    top: 4.5vh;
+    right: 1.4vw;
+    width: 0.3vw;
+}
+.point2{
+    position: absolute;
+    top: 4.3vh;
+    right: 12.8vw;
+    width: 0.3vw;
+}
+.point3{
+    position: absolute;
+    top: 4.3vh;
+    right: 20.5vw;
+    width: 0.3vw;
+}
+.setka{
+    position: relative;
+    top: 48vh;
+    width: 100vw;
+}
+
+/* .kogda{
+    font-family:"Noto Sans", sans-serif;
+    position: absolute;
+    color: black;
+    font-size: 6vw;
+    font-weight: 550;
+    text-transform: uppercase;
+    line-height: 6.8vw;
+    top: 15vh;
+    left: 1.5vw;
+}
+
+.vse{
+    position: absolute;
+    width: 7.5vw;
+    top: 9vh;
+    left: 20vw;
+}
+.krug{
+    position: absolute;
+    width: 24vw;
+    top: 11vh;
+    left: 33vw;
+}
+.znaki{
+    position: absolute;
+    width: 5vw;
+    top: 41.5vh;
+    left: 38.5vw;
+}
+.podcherk{
+    position: absolute;
+    width: 11vw;
+    top: 55vh;
+    left: 25vw;
+}
+.strelki{
+    position: absolute;
+    width: 21vw;
+    top: 25vh;
+    left: 14.5vw;
+} */
+
+.kogdada{
+    position: relative;
+    width: 75vw;
+    top: -32vh;
+    left: 1.5vw;
+}
+
+.decyat{
+    font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+     font-size: 4.5vw;
+    top: -12vw;
+    left: 3vw;
+ 
+ }
+ 
+ .dvadcatpyat{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-size: 4.5vw;
+     font-weight: 500;
+    top: -16.5vw;
+    left: 23vw;
+ 
+ }
+ 
+ .pyatdecyat{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+     font-size: 4.5vw;
+    top: -21vw;
+    left: 43vw;
+ 
+ }
+ 
+ .semdecyatpyat{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+    font-size: 4.5vw;
+    top: -25.6vw;
+    left: 63vw;
+ 
+ }
+ 
+ .sto{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+     font-size: 4.5vw;
+    top: -30.2vw;
+    left: 83vw;
+ 
+ }
+ 
+ .procent10{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+    font-size: 2vw;
+    top: -32.5vw;
+    left: 8vw;
+ }
+ 
+ .procent25{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+    font-size: 2vw;
+    top: -34.5vw;
+    left: 28.5vw;
+ }
+ 
+ .procent50{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+    font-size: 2vw;
+    top: -36.5vw;
+    left: 48.7vw;
+ }
+ 
+ .procent75{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+    font-size: 2vw;
+    top: -38.5vw;
+    left: 68.5vw;
+ }
+ .procent100{
+     font-family:  "Inter", sans-serif;
+     position: relative;
+     color: black;
+     font-weight: 500;
+    font-size: 2vw;
+    top: -40.5vw;
+    left: 91vw;
+ }
+.podbesh{
+    position: absolute;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+   font-size: 1vw;
+   top: 80vh;
+   left: 3vw;
+}
+.poka{
+    position: absolute;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+   font-size: 1vw;
+   top: 80vh;
+   left: 23vw;
+}
+.prosto{
+    position: absolute;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+   font-size: 1vw;
+   top: 80vh;
+   left: 43.3vw;
+}
+.vibes{
+    position: absolute;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+   font-size: 1vw;
+   top: 80vh;
+   left: 63.3vw;
+}
+.hochet{
+    position: absolute;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+   font-size: 1vw;
+   top: 80vh;
+   left: 84vw;
+}
+
+.tri{
+    position: absolute;
+    width: 1.3vw;
+   top: 81.5vh;
+   left: 10.8vw;
+}
+
+.pyat{
+    position: absolute;
+    width: 5.8vw;
+    top: 59.5vh;
+    left: 65.2vw;
+}
+
+.smile{
+    position: absolute;
+    width: 1vw;
+    top: 79.5vh;
+   left: 92vw;
+}
+
+.tvoi{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+   font-size: 2vw;
+   top: -68vh;
+   left: 2.2vw;
+}
+
+.hr2{
+    position: relative;
+    width: 100vw;
+    top: -68vh;
+    height: 0.15vh;
+    background-color: rgb(0, 0, 0);
+    border: none;
+}
+.klaksa{
+    position: absolute;
+    width: 10vw;
+    left: 18vw;
+    top: 85vh;
+}
+
+.contact{
+    position: relative;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+   font-size: 1vw;
+   top: -67vh;
+   left: 2.2vw;
+
+}
+.telefon{
+    position: relative;
+    width:12vw;
+    top: -69vh;
+    right: -86.5vw;
+}
+
+.frame2{
+    position: absolute;
+    width: 18.5vw;
+    height: 22vh;
+    top: 64.5vh;
+    left: 0vw;
+    z-index: 2;
+}
+.frame3{
+    position: absolute;
+    width: 20vw;
+    height: 22vh;
+    top: 64.5vh;
+    left: 18.5vw;
+    z-index: 2;
+}
+.frame4{
+    position: absolute;
+    width: 20vw;
+    height: 22vh;
+    top: 64.5vh;
+    left: 38.7vw;
+    z-index: 2;
+}
+.frame5{
+    position: absolute;
+    width: 19vw;
+    height: 22vh;
+    top: 64.5vh;
+    left: 59vw;
+    z-index: 2;
+}
+.frame6{
+    position: absolute;
+    width: 21.5vw;
+    height: 22vh;
+    top: 64.5vh;
+    right: 0vw;
+    z-index: 2;
+}
+
+
+
+
+
+
+.firstscreen{
+  
+    background-color: #F3F3F3;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+/* -------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌----------- 2 ЭКРАН ----------------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌------- */
+
+.secondscreen{
+    display: none;
+    background-color: #F3F3F3;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.kvadrat1{
+    position: relative;
+    width: 85vw;
+    /* top: 0vh;
+    left: 15.5vw; */
+    top: 7vh;
+    left: 15vw;
+}
+
+.kvadrat2{
+    position: relative;
+    width: 49.3vw;
+    /* top: -60vh;
+    left: 0vw; */
+    top: -70vh;
+    left: 8vw;
+}
+
+.kvadrat5{
+    position: relative;
+    width: 44.5vw;
+    /* top: -60vh;
+    right: -6.5vw; */
+    top: -67vh;
+    right: 3s0vw;
+}
+
+.kvadrat3{
+    position: relative;
+    width: 65.05vw;
+    /* top: -118.9vh;
+    left: 27.55vw; */
+    top: -150vh;
+    left: 1vw;
+}
+
+.kvadrat4{
+    position: relative;
+    width: 42vw;
+    /* top: -222vh;
+    right: -60vw; */
+    top: -190vh;
+    left: 29vw;
+}
+.nazad10{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    top: 1.5vh;
+    left: 1vw;
+    z-index: 2;
+}
+.vibesitsa{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    top: 2vh;
+    text-transform: uppercase;
+    z-index: 1;
+}
+
+.soberi{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    top: 95vh;  
+}
+
+.soberi p{
+    font-family: "PT Sans Narrow", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    color: rgb(0, 0, 0);
+}
+.dec{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 1.2vw;
+    opacity: 32%;
+    top: 2vh;
+    right: 1vw;
+}
+
+/* -------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌----------- 3 ЭКРАН ----------------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌------- */
+.thirdsection{
+    display: none;
+    background-color: #F3F3F3;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.w{
+    position: relative;
+    width: 4vw;
+    height: 7vh;
+    top: -4.8vh;
+    left: 66vw;
+
+}
+.b{
+    position: relative;
+    height: 7vh;
+    width: 4vw;
+    top: 2vh;
+    left: 61.75vw;
+}
+
+.framew{
+    position: absolute;
+    width: 4vw;
+    height: 7vh;
+    top: 44.3vh;
+    left: 66vw;
+    z-index: 3;
+}
+
+.frameb{
+    position: absolute;
+    width: 4vw;
+    height: 7vh;
+    top: 51.3vh;
+    left: 66vw;
+    z-index: 3;
+}
+
+.none{
+    position: relative;
+    width: 28vw;
+    top: 23vh;
+    left: 10vw;
+}
+/* .none1 {
+    display: none;
+} */
+.nazad25{
+    position: absolute;
+    width: 3.5vw;
+    top: 1.5vh;
+    left: 1vw;
+    z-index: 2;
+}
+.twenrf{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 1.2vw;
+    opacity: 32%;
+    top: 2vh;
+    right: 1vw;
+}
+
+.white img{
+    display: none;
+    position: absolute;
+    width: 28vw;
+    top: 23vh;
+    left: 18.5vw;
+    z-index: 1;
+}
+.black img{
+    display: none;
+    position: absolute;
+    width: 28vw;
+    top: 23vh;
+    left: 18.5vw;
+}
+
+.vibesitsa{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    top: 2vh;
+    text-transform: uppercase;
+    z-index: 1;
+}
+
+.razkras{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    top: 95vh;  
+}
+
+.razkras p{
+    font-family: "PT Sans Narrow", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    color: rgb(0, 0, 0);
+}
+
+/* -------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌----------- 4 ЭКРАН ----------------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌------- */
+
+.fourthsection{
+    width: 100vw;
+    height: 100vh;
+    display: none;
+    overflow: hidden;
+    
+}
+
+.vibesitsa{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    top: 2vh;
+    text-transform: uppercase;
+    z-index: 1;
+}
+
+.razbei{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    top: 95vh;  
+}
+
+.razbei p{
+    font-family: "PT Sans Narrow", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    color: rgb(0, 0, 0);
+}
+.nazad50{
+    position: absolute;
+    width: 3.5vw;
+    top: 1.5vh;
+    left: 1vw;
+    z-index: 2;
+}
+.fift{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 1.2vw;
+    opacity: 32%;
+    top: 2vh;
+    right: 1vw;
+}
+
+.plate1{
+    position: relative;
+    width: 40vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    z-index: 1;
+    
+}
+.plate2{
+    opacity: 0;
+    position: relative;
+    width: 40vw;
+    height: 100vh;
+    top: -100vh;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    z-index: 1;
+    
+}
+.plate3{
+    opacity: 0;
+    position: relative;
+    width: 43vw;
+    height: 100vh;
+    top: -202vh;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    z-index: 1;
+    
+}
+
+/* -------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌----------- 5 ЭКРАН ----------------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌------- */
+
+.fifthsection{
+    display: none;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.mailtext1 input{
+    position: absolute;
+    width: 57vw;
+    height: 50vh;
+}
+.mailtext1{
+    position: absolute;
+    width: 57vw;
+    height: 6vh;
+    top: -4vh;
+    left: 31vw;
+    z-index: 4;
+}
+.mailtext2 input{
+    position: absolute;
+    width: 22vw;
+    height: 50vh;
+}
+.mailtext2{
+    position: absolute;
+    width: 57vw;
+    height: 6vh;
+    top: 2.9vh;
+    left: 35vw;
+    z-index: 4;
+}
+.mt{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    transition: 0.3%;
+    font-family:"Noto Sans", sans-serif;
+    font-size: 3vw;
+    font-weight: 350;
+    text-transform: uppercase;
+}
+
+.mailtext{
+    position: absolute;
+    width: 57vw;
+    height: 50vh;
+
+    top: 52vh;
+    left: 21vw;
+    z-index: 5;
+}
+.mailtext textarea{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    transition: 0.3%;
+    font-family:"Noto Sans", sans-serif;
+    font-size: 1.3vw;
+    font-weight: 350;
+    text-transform: uppercase;
+   
+}
+
+
+.vibesitsa{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    top: 2vh;
+    text-transform: uppercase;
+    
+}
+
+.viskazhis{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    top: 95vh;  
+}
+
+.viskazhis p{
+    font-family: "PT Sans Narrow", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    color: rgb(0, 0, 0);
+}
+
+.nazad75{
+    position: absolute;
+    width: 3.5vw;
+    top: 1.5vh;
+    left: 1vw;
+    z-index: 2;
+}
+.seven{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 1.2vw;
+    opacity: 32%;
+    top: 2vh;
+    right: 1vw;
+}
+
+.mail{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    z-index: 1;
+    
+}
+.mail img{
+    width: 60vw;
+    
+}
+.to{
+    position: absolute;
+    font-size: 3vw;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+    top: 18.5vh;
+    left: 21vw;
+    z-index: 3;
+}
+.from{
+    position: absolute;
+    font-size: 3vw;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+    top: 25vh;
+    left: 21vw;
+    z-index: 2;
+}
+.whriteall{
+    position: absolute;
+    font-size: 1.2vw;
+    color: black;
+    opacity: 18%;
+    font-weight: 350;
+    text-transform: uppercase;
+    top: 38.5vh;
+    left: 21vw;
+    z-index: 2;
+}
+.besish{
+    position: absolute;
+    font-size: 1.2vw;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+    top: 47vh;
+    left: 21vw;
+    z-index: 2;
+}
+
+.send{
+    position: absolute;
+    font-size: 0.9vw;
+    color: black;
+    font-weight: 350;
+    text-transform: uppercase;
+    top: 77.8vh;
+    left: 72.5vw;
+    z-index: 2;
+}
+
+
+/* -------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌----------- 6 ЭКРАН ----------------❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌------- */
+
+.sixthsection{
+    display: none;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.vibesitsa{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    top: 2vh;
+    text-transform: uppercase;
+    
+}
+
+.razrisui{
+    position: absolute;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    top: 95vh;  
+}
+
+.razrisui p{
+    font-family: "PT Sans Narrow", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    color: rgb(0, 0, 0);
+    z-index: 1;
+}
+
+.nazad100{
+    position: absolute;
+    width: 3.5vw;
+    top: 1.5vh;
+    left: 1vw;
+    z-index: 2;
+}
+.hundr{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 1.2vw;
+    opacity: 32%;
+    top: 2vh;
+    right: 1vw;
+}
+
+
+.drawCanvas {
+    display: block;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
